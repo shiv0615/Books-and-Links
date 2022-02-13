@@ -12,6 +12,8 @@ https://www.freetechbooks.com/algorithms-and-data-structures-f11.html
 https://www.bigocheatsheet.com
 
 **Machine Learning**
+http://incompleteideas.net/book/the-book-2nd.html
+
 
 
 **Probability and Statistics**
